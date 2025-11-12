@@ -16,7 +16,7 @@ Esta disciplina introduz os conceitos fundamentais da programação estruturada 
 * Comandos de Decisão e Repetição
 * Funções e Escopo de Variáveis
 * Ponteiros e Alocação Dinâmica de Memória (malloc, free)
-* Estruturas de Dados (Structs, Listas Encadeadas, Pilhas, Filas)
+* Estruturas de Dados (Structs, Listas Encadeadas, Pilhas, Filas, arovores binárias)
 * Algoritmos de Busca e Ordenação
 
 ---
