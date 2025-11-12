@@ -1,0 +1,7 @@
+# Ignora pastas .vscode em qualquer lugar do projeto
+**/.vscode/
+
+# Ignora arquivos compilados e executáveis
+*.exe
+*.out
+*.o
